@@ -1,6 +1,6 @@
 ---
 title: "Hello Sabyasachi Ghosh "
-subtitle: Never Give up, okay
+subtitle: Never Give up
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Anojit Ghosh?
