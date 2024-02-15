@@ -1,5 +1,5 @@
 ---
-title: Hello Anojit Ghosh, What the Fuck!!! Yeahh
+title: Hello Anojit Ghosh
 subtitle: "No never yes "
 image: /img/home-jumbotron.jpg
 blurb:
