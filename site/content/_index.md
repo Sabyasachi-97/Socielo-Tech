@@ -1,7 +1,7 @@
 ---
-title: "Hello Sabyasachi Ghosh "
-subtitle: Never Give up, no matter what happens, okay sure i will be there
-image: /img/home-jumbotron.jpg
+title: Welcome to Swamiji Page
+subtitle: Thank you!
+image: img/1484211743-swamiji-e1641899532934.jpg
 blurb:
   heading: Why Anojit Ghosh?
   text: He is the smartest guy
