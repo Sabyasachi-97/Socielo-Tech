@@ -7,13 +7,14 @@ contact_entries:
   - heading: Working hours
     text: Not fixed, Trying to sharing the updates as much as possible daily.
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
+I will love to get in touch with you and hear your ideas and
+questions. I strive to grow and improve constantly and your feedback
 is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How can you get?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+you can Email me in this maild id : sabya9382@gmail.com
+
+you can connect me/ follow me through Facebook : https://www.facebook.com/sabyasachi9732\
+Linkedin: https://www.linkedin.com/in/sabyasachi-ghosh-19434a23a/\
+Twitter/ X: https://twitter.com/sabya9382
