@@ -5,4 +5,4 @@ title = "Sabyasachi's Daily Journey"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/sg.png"]
