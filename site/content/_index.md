@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 subtitle: This is Sabyasachi
-image: img/whatsapp-image-2024-02-23-at-10.54.58-am.jpeg
+image: img/my_picture.jpg
 blurb:
   heading: What you will get from here?
   text: Embark on a captivating odyssey through the intricate landscapes of my
@@ -42,36 +42,7 @@ intro:
 
 
     Through "A Journey of Daily Thoughts," we invite you to embark on a transformative voyage of self-discovery and contemplation, where every day brings new opportunities for insight and enlightenment. Join us as we navigate the intricate landscapes of the mind together, one thought at a time.
-products:
-  - image: img/icon_casestudies_.svg
-    text: >-
-      What sets "A Journey of Daily Thoughts" apart is its deeply personal and
-      introspective approach to exploring the human experience. Here are some
-      unique aspects that you can expect from our platform:
-
-
-      Authenticity: Our daily musings are raw, authentic, and deeply reflective of the human condition. We don't shy away from expressing vulnerability or exploring the complexities of emotions and experiences.
-
-
-      Daily Engagement: Unlike traditional blogs or websites that may update sporadically, we offer a consistent stream of daily thoughts, providing a steady source of inspiration and introspection for our audience.
-
-
-      Diverse Perspectives: We embrace diversity in thought and experience, offering a range of perspectives that reflect the richness and complexity of the human experience. Our content resonates with individuals from various backgrounds and walks of life.
-
-
-      Interactive Community: We foster an interactive community where readers can engage with each other and with the content creators, sharing their own insights, experiences, and reflections. This creates a dynamic and supportive environment for growth and connection.
-
-
-      Multimedia Experience: While our primary medium is written content, we also incorporate multimedia elements such as images, videos, and audio recordings to enhance the overall experience and appeal to different learning styles.
-
-
-      Evolutionary Insights: As our daily musings evolve over time, they reflect the growth and evolution of the individuals behind them. This ongoing journey of self-discovery and introspection adds depth and richness to the content, making each day's reflection unique and compelling.
-
-
-      Holistic Exploration: We take a holistic approach to exploring the human experience, delving into a wide range of topics including psychology, philosophy, spirituality, creativity, relationships, and more. This multidimensional exploration offers a comprehensive understanding of what it means to be human.
-
-
-      In summary, "A Journey of Daily Thoughts" offers a unique blend of authenticity, consistency, diversity, interactivity, multimedia engagement, evolutionary insights, and holistic exploration, making it a valuable and enriching resource for individuals seeking to deepen their understanding of themselves and the world around them.
+products: []
 values:
   heading: Our values
   text: >-
