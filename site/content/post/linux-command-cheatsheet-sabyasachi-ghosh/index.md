@@ -107,27 +107,18 @@ image: linux_commands.png
     - **`ip addr`**: Newer command.
       - Example: `ip addr`.
 
-### Help and Documentation
-
-21. **`man`** - Manual Pages:
-    - Displays the manual pages for commands.
-    - Example: `man ls` (press `q` to quit).
-
-22. **`--help`**:
-    - Many commands support `--help` option to show usage and options.
-    - Example: `ls --help`.
 
 ### Miscellaneous
 
-23. **`date`** - Display Date and Time:
+21. **`date`** - Display Date and Time:
     - Shows current date and time.
     - Example: `date`.
 
-24. **`echo`** - Display Text:
+22. **`echo`** - Display Text:
     - Prints text or variables to the terminal.
     - Example: `echo "Hello, Linux!"`.
 
-25. **`history`** - Command History:
+23. **`history`** - Command History:
     - Lists previously executed commands.
     - Example: `history`.
 
