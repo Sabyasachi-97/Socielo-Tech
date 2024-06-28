@@ -9,7 +9,7 @@ image: linux_commands.png
 
 ### Navigation and File Operations
 
-1. **`pwd`** - Print Working Directory:
+1. `pwd - Print Working Directory:`
    - Shows the current directory path you are in.
 
 2. **`ls`** - List Directory Contents:
