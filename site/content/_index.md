@@ -1,9 +1,9 @@
 ---
-title: Welcome!
-subtitle: This is Sabyasachi
+title: Hello
+subtitle: and welcome
 image: img/my_picture.jpg
 blurb:
-  heading: What you will get from here?
+  heading: I'm Sabyasachi Ghosh
   text: Embark on a captivating odyssey through the intricate landscapes of my
     mind with A Journey of Daily Thoughts". In this site, I invite you to join
     me on a personal exploration of the human experience. These are not just
@@ -11,7 +11,7 @@ blurb:
     profound insights, inspirations, and moments of introspection.
 intro:
   heading: What we offer?
-  text: >-
+  text: >
     I offer a deeply personal and introspective exploration of the human
     experience. Through a series of daily musings, I invite you to embark on a
     captivating odyssey through the intricate landscapes of the mind. My
@@ -33,15 +33,6 @@ intro:
 
 
     Inspirational Moments: Experience moments of inspiration and enlightenment as we share stories, anecdotes, and observations that uplift the spirit.
-
-
-    Introspective Content: Delve into themes such as love, loss, purpose, resilience, and growth, as we explore the rich tapestry of human emotions and experiences.
-
-
-    Interactive Community: Connect with like-minded individuals who share a passion for personal growth and introspection, fostering meaningful discussions and exchanges of ideas.
-
-
-    Through "A Journey of Daily Thoughts," we invite you to embark on a transformative voyage of self-discovery and contemplation, where every day brings new opportunities for insight and enlightenment. Join us as we navigate the intricate landscapes of the mind together, one thought at a time.
 products: []
 values:
   heading: Our values
